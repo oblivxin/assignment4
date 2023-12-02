@@ -18,3 +18,8 @@ https://github.com/oblivxin/assignment4
 3. URL to the Docker Hub Image:
 
 https://hub.docker.com/r/oblivxin/python-assignment4
+
+Or to make it easier, you can input onto the terminal:
+"docker pull oblivxin/python-assignment4:latest"
+
+Again, be sure to use "docker run -i -t python-assignment4" as it does require the user to input a selection
